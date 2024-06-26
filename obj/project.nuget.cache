@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jwcq90RSB+x56Y47L0/W/LTr/7flvMMKnD6p72Mu/uv96ZOFszmkB7A/UT7ynYB+S0SbFFmMRUksA8H1RDjKcA==",
+  "success": true,
+  "projectFilePath": "D:\\TarefasMvc\\TarefasMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VINICIUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
